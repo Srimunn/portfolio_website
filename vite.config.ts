@@ -11,7 +11,7 @@ export default defineConfig(({ mode }) => ({
   plugins: [
     react(),
     mode === 'development' &&
-    // Removed AI-related import
+    // Removed unused import
   ].filter(Boolean),
   resolve: {
     alias: {
