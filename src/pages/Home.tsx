@@ -38,7 +38,7 @@ const Home = () => {
                   style={{ backgroundColor: '#0F0F0F' }}
                 >
                   <img 
-                    src="/lovable-uploads/1554db8e-64dd-450e-b7c6-02ebcc74e321.png"
+                    src="/assets/profile.png"
                     alt="Srimun S S"
                     className="w-full h-full object-cover object-center rounded-2xl"
                   />
